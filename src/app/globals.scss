@@ -1,0 +1,53 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@font-face {
+  font-family: "TroisMilleBlack";
+  src: url("./assets/fonts/TroisMilleBlack/TroisMilleBlack-21.eot");
+  src: url("./assets/fonts/TroisMilleBlack/TroisMilleBlack-21.eot?#iefix")
+      format("embedded-opentype"),
+    url("./assets/fonts/TroisMilleBlack/TroisMilleBlack-21.woff") format("woff"),
+    url("./assets/fonts/TroisMilleBlack/TroisMilleBlack-21.woff2")
+      format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+// Trois Mille Light
+@font-face {
+  font-family: "TroisMilleLight";
+  src: url("./assets/fonts/TroisMilleLight/TroisMilleLight-21.eot");
+  src: url("./assets/fonts/TroisMilleLight/TroisMilleLight-21.eot?#iefix")
+      format("embedded-opentype"),
+    url("./assets/fonts/TroisMilleLight/TroisMilleLight-21.woff") format("woff"),
+    url("./assets/fonts/TroisMilleLight/TroisMilleLight-21.woff2")
+      format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+$brand-pink:                                      #e6237b;
+$brand-purple:                                    #160e50;
+$cornflower:                                      #5969fc;
+$pale-pink:                                       #ffc5de;
+$coral-pink:                                      #ff5464;
+$apricot:                                         #ff996e;
+$peach:                                           #ff6f6e;
+$parchment:                                       #ffffb0;
+$orange-yellow:                                   #ffa300;
+$aqua:                                            #1be0bf;
+$neon-blue:                                       #0dccff;
+$yellow-green:                                    #cafa3e;
+$primary-blue:                                    #1206fc;
+$baby-purple:                                     #ff94fc;
+$light-cyan:                                      #a3ffef;
+$white:                                           #ffffff;
+$white-75:                                        rgba(255, 255, 255, 0.75);
