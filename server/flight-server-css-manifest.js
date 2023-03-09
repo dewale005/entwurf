@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css_mods__":{"/Users/adewale/dev/test/entwurf/app/src/app/page":["/Users/adewale/dev/test/entwurf/app/src/app/globals.scss"]},"/Users/adewale/dev/test/entwurf/app/src/app/layout.tsx":["/Users/adewale/dev/test/entwurf/app/src/app/globals.scss"]}
